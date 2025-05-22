@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello Devs, Hello Devs,
+I am a budding developer and student focusing on web development and design, as well as learning about frameworks. I believe that everyone has the potential to be extraordinary.<br>
 
 
 ## 🌐 Socials:
