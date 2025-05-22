@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Devs, Hello Devs,
+Hello Devs,
 I am a budding developer and student focusing on web development and design, as well as learning about frameworks. I believe that everyone has the potential to be extraordinary.<br>
 
 
